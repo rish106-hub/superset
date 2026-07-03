@@ -1,0 +1,24 @@
+superset-frontend/src/dashboard/components/DashboardBuilder/DashboardBuilder.tsx
+  s_d149507fda56c8::t_5fa2a5cb1f119e 320
+  s_d149507fda56c8::t_e18f40468d4f72 321
+superset-frontend/src/dashboard/components/DashboardBuilder/DashboardBuilder.test.tsx
+  s_d149507fda56c8::t_c20a7920cdacce 591-632
+  s_d149507fda56c8::t_f6e8fd5729e925 26
+  s_d149507fda56c8::t_e4004cab725ac1 589-590
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "5d75de0aa8be088cae0612bc376f9e38478a340b",
+  "prompts": {},
+  "sessions": {
+    "s_d149507fda56c8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3314ef9f-9491-4234-9737-9aea60a0a1df",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
